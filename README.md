@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @serene-sivy
-- 👀 I’m interested in AI and cyber security and blockchain.
-- 🌱 I’m currently learning basical computer science and something concerned with security.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Robotics and Embodied AI and trustworthy AI.
+- 💞️ I’m looking to collaborate on Embodied Intelligence.
 - 📫 How to reach me : just contect me with my email:serene_sivy@outlook.com.
 
 <!---
