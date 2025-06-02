@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serene-sivy
+- 👋 Hi, I’m Jisong.
 - 👀 I’m interested in Robotics and Embodied AI and trustworthy AI.
 - 💞️ I’m looking to collaborate on Embodied Intelligence.
 - 📫 How to reach me : just contect me with my email:serene_sivy@outlook.com.
