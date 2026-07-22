@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Jisong.
-- 👀 I am a first-year Ph.D. student at Shanghai Jiao Tong University, working on Robotics and World Models.
+- 👀 I am a first-year Ph.D. student at Shanghai Jiao Tong University, supervised by [Yao Mu](https://scholar.google.com/citations?user=HK4x3fkAAAAJ&hl=en), working on Robotics and World Models.
 - 💞️ Feel free to contact me for any discussions or collaborations!
 - 📫 Just contact me with my email: serene_sivy@outlook.com.
 - 📖 You can find my research updates on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=dTrpq94AAAAJ).
